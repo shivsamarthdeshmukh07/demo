@@ -12,6 +12,14 @@ export default ImageCompo =(props)=>{
         
         {/* <View style={{,flex:1,marginBottom:50}}> */}
      
+
+      {/* <View style={{,flex:1,marginBottom:50}}> */}
+       {/* <View style={{,flex:1,marginBottom:50}}> */}
+        {/* <View style={{,flex:1,marginBottom:50}}> */}
+
+        {/* <View style={{,flex:1,marginBottom:50}}> */}
+        {/* <View style={{,flex:1,marginBottom:50}}> */}
+        {/* "shivvvvv" */}
             <Image 
              style={{height:200}}
             //source={require('../assets/images/car.avif')}
